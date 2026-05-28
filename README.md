@@ -1,1 +1,1 @@
-# GPU-Vector-Machine-Project
+#Vector-Machine-Project
